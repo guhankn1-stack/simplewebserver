@@ -110,7 +110,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-
+![alt text](<Screenshot (20).png>)
 
 
 ## RESULT:
